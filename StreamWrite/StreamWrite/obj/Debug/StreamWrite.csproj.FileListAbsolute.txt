@@ -1,0 +1,7 @@
+C:\Martin\StreamWrite\StreamWrite\bin\Debug\StreamWrite.exe.config
+C:\Martin\StreamWrite\StreamWrite\bin\Debug\StreamWrite.exe
+C:\Martin\StreamWrite\StreamWrite\bin\Debug\StreamWrite.pdb
+C:\Martin\StreamWrite\StreamWrite\obj\Debug\StreamWrite.csprojAssemblyReference.cache
+C:\Martin\StreamWrite\StreamWrite\obj\Debug\StreamWrite.csproj.CoreCompileInputs.cache
+C:\Martin\StreamWrite\StreamWrite\obj\Debug\StreamWrite.exe
+C:\Martin\StreamWrite\StreamWrite\obj\Debug\StreamWrite.pdb

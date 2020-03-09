@@ -1,0 +1,7 @@
+C:\Martin\ObjectStore\ObjectStore\obj\Debug\ObjectStore.csprojAssemblyReference.cache
+C:\Martin\ObjectStore\ObjectStore\obj\Debug\ObjectStore.csproj.CoreCompileInputs.cache
+C:\Martin\ObjectStore\ObjectStore\bin\Debug\ObjectStore.exe.config
+C:\Martin\ObjectStore\ObjectStore\bin\Debug\ObjectStore.exe
+C:\Martin\ObjectStore\ObjectStore\bin\Debug\ObjectStore.pdb
+C:\Martin\ObjectStore\ObjectStore\obj\Debug\ObjectStore.exe
+C:\Martin\ObjectStore\ObjectStore\obj\Debug\ObjectStore.pdb
